@@ -7,3 +7,5 @@ Z
 *tests/resource-allocation-contract.test.ts,e/7/e75c987a66949ea1e4ce2093ccf7b58748235e34
 O
 contracts/mission-contract.clar,1/3/13745424d41aedd08659f0bb6fd561fbde80cdb1
+N
+tests/mission-contract.test.ts,f/6/f673272ea74fe90cebacb6d07a48aa9539229ed9
